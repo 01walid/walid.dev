@@ -42,10 +42,12 @@ author                 = "Walid Ziouche"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Don't panic"
+description            = "Walid Ziouche personal blog"
+email                  = "hi@walid.dev"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/profile.jpg"
 github                 = "01walid"
+
 # instagram              = "//instagram.com/you"
 # px500                  = "//500px.com/username"
 lang                   = "en"
