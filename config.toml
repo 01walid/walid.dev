@@ -47,6 +47,7 @@ email                  = "hi@walid.dev"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/profile.jpg"
 github                 = "01walid"
+dotfiles_repo          = "https://github.com/01walid/dotfiles"
 
 # instagram              = "//instagram.com/you"
 # px500                  = "//500px.com/username"
