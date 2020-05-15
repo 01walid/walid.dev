@@ -29,7 +29,7 @@ It then provides a **execution context**, which is any code outside of the actua
 
 By default, Python puts its installed packages at `/usr/lib/pythonX.Y/site-packages` where `/usr` (sometimes `/usr/local`) is known as the prefix (`sys.prefix`). 
 
-This is hardcoded when you compile Python and you do `./configure --prefix=..`. Depending on your Linux distribution / OS, `sys.prefix` could slightly change.  
+This is hardcoded when you compile Python and you do `./configure --prefix=..`. Depending on your Linux distribution / OS, `sys.prefix` could slightly differ.  
 
 This prefix can be manipulated, that's how tools like [virtualenv](https://virtualenv.pypa.io) work, but there's a whole machinery behind the scene to make virtual environments work and use the standard library at the hardcoded  `sys.prefix` without breaking things. 
 
