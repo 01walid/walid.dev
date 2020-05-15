@@ -1,9 +1,9 @@
 +++
-title = 'Self sufficient AWS Lambda Python function'
+title = 'Self sufficient AWS Lambda functions with Python'
 date = 2020-05-15T05:47:39+01:00
 draft = true
 tags = ["aws", "lambda", "python", "hackery", "serverless"]
-description = "Self sufficient AWS Lambda Python function"
+description = "Self sufficient AWS Lambda functions with Python"
 
 # For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards
 meta_img = "the-code.png"
