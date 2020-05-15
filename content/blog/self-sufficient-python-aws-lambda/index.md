@@ -1,7 +1,7 @@
 +++
 title = 'Self sufficient AWS Lambda functions with Python'
 date = 2020-05-15T05:47:39+01:00
-draft = true
+draft = false
 tags = ["aws", "lambda", "python", "hackery", "serverless"]
 description = "Self sufficient AWS Lambda functions with Python"
 
