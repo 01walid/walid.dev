@@ -110,14 +110,14 @@ lobsters_id = ""
 
 # مدافع عن الخصوصية - Privacy 
 كان -رحمه الله- مدافعا شرسا جدا عن الخصوصية، آخر أيامه كانت اجتهادا متواصلا للتخلي عن منتجات Google أو ما يعرف بـ
-[De-Google] (https://en.wikipedia.org/wiki/DeGoogle)، كان يتجنب استخدام متصفح Chrome، ويفضل FireFox، كما تخلى بشكل شبه كامل عن بريد GMail وعوضه بـ ProtonMail، هذه بضع مقالاته حول الموضوع: 
+[De-Google](https://en.wikipedia.org/wiki/DeGoogle)، كان يتجنب استخدام متصفح Chrome، ويفضل FireFox، كما تخلى بشكل شبه كامل عن بريد GMail وعوضه بـ ProtonMail، هذه بضع مقالاته حول الموضوع: 
 - [الاستفادة من Youtube من دون GMail](https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/).
 - [التخلي عن Google Play Service في الهاتف باستخدام نسخة مفتوحة من نظام Android](https://www.it-scoop.com/2019/06/lineage-os-android-without-google-play-services/).
 - لم يكن حتى يرفع صورا على Drive أو Google Photo وفي وقت ما استخدم [NextCloud](https://nextcloud.com/) كبديل لبعض منتجات Google، منها تخزين جهات الاتصال Contacts.
 
 منذ سنوات أغلق حسابه على Facebook، فلم يكن يحتمل ممارساته ضد خصوصية المستخدم، ولم يكن يشجع البتة على استخدامه. كان جُل نشاطه على تويتر في ما يخص الشبكات الاجتماعية.
 
-عموما، لم يكن يحب هيمنة التشركات التقنية وبسط سيطرتها أو احتكارها على الأسواق والدول لتكون تحت رحمتها.
+عموما، لم يكن يحب هيمنة الشركات التقنية وبسط سيطرتها أو احتكارها على الأسواق والدول لتكون تحت رحمتها.
 
 # هوية جزائرية
 
