@@ -2,13 +2,13 @@
 title = 'يوغرطة، صديقي النجيب'
 date = 2021-04-17T14:44:19+01:00
 draft = false
-tags = ["djug", "youghourta", "itscoop", "walletix", "algeria"]
-description = "Desc"
+tags = ["djug", "youghourta", "itscoop", "walletix", "algeria", "يوغرطة", "بن علي", "الجزائر"]
+description = "عن يوغرطة بن علي، الشاب الجزائري الطموح وخلاصة ما عايشته معه"
 dir = "rtl"
 slug = "djug"
 
 # For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards
-meta_img = "/images/image.jpg"
+meta_img = "https://res.cloudinary.com/walid/image/upload/v1618661676/131933804_2705289586389243_557410028840010204_n_h2je19.jpg"
 
 # For hacker news and lobsters builtin links, see github.com/mtn/cocoa-eh-hugo-theme/wiki/Social-Links
 hacker_news_id = ""
