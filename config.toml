@@ -11,6 +11,8 @@ title               = "Walid Ziouche"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 
+disqusShortname = "walid-ziouche"
+
 [permalinks]
 blog  = "blog/:slug/"
 
@@ -84,6 +86,6 @@ avatar                 = "img/profile.jpg" # path to image in static dir e.g img
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
 
 [params.utteranc]
-enable = true
+enable = false
 repo = "01walid/walid.dev"
 issueTerm = "title"
