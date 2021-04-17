@@ -8,7 +8,7 @@ dir = "rtl"
 slug = "djug"
 
 # For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards
-meta_img = "https://res.cloudinary.com/walid/image/upload/v1618661676/131933804_2705289586389243_557410028840010204_n_h2je19.jpg"
+meta_img = "img/djug.jpg"
 
 # For hacker news and lobsters builtin links, see github.com/mtn/cocoa-eh-hugo-theme/wiki/Social-Links
 hacker_news_id = ""
