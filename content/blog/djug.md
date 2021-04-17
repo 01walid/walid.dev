@@ -1,6 +1,6 @@
 +++
 title = 'يوغرطة، صديقي النجيب'
-date = 2020-04-17T14:44:19+01:00
+date = 2021-04-17T14:44:19+01:00
 draft = false
 tags = ["djug", "youghourta", "itscoop", "walletix", "algeria"]
 description = "Desc"
