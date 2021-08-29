@@ -5,7 +5,7 @@ draft = false
 tags = ["خواطر", "برمجة", "paul graham"]
 description = "لا تجعل من لغات البرمجة جزءًا من هويتك"
 dir = "rtl"
-slug = "djug"
+slug = "software-engineering-and-ones-identity"
 
 # For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards
 meta_img = ""
