@@ -65,9 +65,9 @@ except json.decoder.JSONDecodeError:
     content = json.loads(message)
     log.info("Message successfully decompressed.")
 ```
-99.8% of the cases, the code with the `try` code will succeed, and without any checks or if statements, so no extra runtime overhead! 
+99.8% of the cases, the code within the `try` block will succeed, and without any checks or if statements, so no extra runtime overhead, no extra costs! 
 
-Only the rest of 0.02% of the messages will make the code enter the `except` block, and might introduce a slight runtime overhead, and it's worth it. Since they're few, the sum of the overhead is negligible. 
+Only the rest of 0.02% of the messages will make the code enter the `except` block, and might induce a slight runtime overhead, but it's worth it. Since they're few, the sum of the overheads for these kind of messages is negligible. 
 
 
 It's another reason for you to -maybe- you want to consider EAFP for such good cases.
