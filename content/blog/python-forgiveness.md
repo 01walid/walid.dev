@@ -19,7 +19,7 @@ I was having a chat with a dear friend about a couple coding styles, known as [E
 - and LBYL being: Look before you leap. 
 
 
-EAFP is a common coding idiom and style in Python, in a nutshell, it encourages letting bits of code fail and catch that failure and handle it (ask for forgiveness), instead of checking -with if statements- if the code can fail or execute correctly (asking permission). 
+EAFP is a common coding idiom and style in Python, in a nutshell, it encourages letting bits of code fail and catch that failure and handle it (ask for forgiveness), instead of checking -with if statements- if the code may fail or execute correctly (asking permission). 
 
 The saying “Ask forgiveness, not permission” is attributed to [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) but there might [more to the story](https://changelog.com/posts/what-admiral-grace-hopper-really-meant) if you're interested. 
 
@@ -65,7 +65,7 @@ except json.decoder.JSONDecodeError:
     content = json.loads(message)
     log.info("Message successfully decompressed.")
 ```
-99.8% of the cases, the code within the `try` block will succeed, and without any checks or if statements, so no extra runtime overhead, no extra costs! 
+99.8% of the cases, the code within the `try` block will succeed, and without any checks (string scans) or if statements, so no extra runtime overhead, no extra costs! 
 
 Only the rest of 0.02% of the messages will make the code enter the `except` block, and might induce a slight runtime overhead, but it's worth it. Since they're few, the sum of the overheads for these kind of messages is negligible. 
 
