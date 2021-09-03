@@ -10,7 +10,7 @@ meta_img = "/images/image.jpg"
 
 # For hacker news and lobsters builtin links, see github.com/mtn/cocoa-eh-hugo-theme/wiki/Social-Links
 hacker_news_id = ""
-lobsters_id = ""
+lobsters_id = "uwmqly"
 +++
 
 I was having a chat with a dear friend about a couple coding styles, known as [EAFP](https://docs.python.org/3.9/glossary.html#term-eafp) and [LBYL](https://docs.python.org/3.9/glossary.html#term-lbyl). 
