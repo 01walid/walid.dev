@@ -13,7 +13,7 @@ lobsters_id = ""
 ## Hello y’all
 I’m Walid.
 
-A software engineer from the [beautiful](https://www.google.com/search?q=annaba+algeria&tbm=isch) city of [Annaba, Algeria](https://en.wikipedia.org/wiki/Annaba). Reaching a decade’s experience in general purpose programming and development, and it’s all like yesterday. 
+A software engineer from the [beautiful](https://www.google.com/search?q=annaba+algeria&tbm=isch) city of [Annaba, Algeria](https://en.wikipedia.org/wiki/Annaba). Just exceeded a decade of experience in general purpose programming and development, and it’s all like yesterday. 
 
 I had the opportunity to work on some challenging problems, these include scaling Elasticsearch, creating software & infrastructures that process millions of records a day, deploying serverless apps with AWS Lambda, tinkering with Unicode and ligatures with Golang, or even chasing memory leaks within Python programs...
 
