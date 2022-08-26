@@ -11,7 +11,7 @@ title               = "Walid Ziouche"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 
-disqusShortname = "walid-ziouche"
+# disqusShortname = "walid-ziouche"
 
 [permalinks]
 blog  = "blog/:slug/"
