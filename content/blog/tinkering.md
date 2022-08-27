@@ -2,7 +2,7 @@
 title = 'Stick to Tinkering'
 date = 2022-07-18T20:59:39+01:00
 draft = false
-tags = ["engineering", "tinkering", "systems", "problem solving"]
+tags = ["systems", "problem solving"]
 description = "Random thoughts about the importance of understanding the underlying system when coding & developing"
 
 # For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards
