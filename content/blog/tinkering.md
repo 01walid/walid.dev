@@ -9,8 +9,8 @@ description = "Random thoughts about the importance of understanding the underly
 # meta_img = "/images/image.jpg"
 
 # For hacker news and lobsters builtin links, see github.com/mtn/cocoa-eh-hugo-theme/wiki/Social-Links
-hacker_news_id = ""
-lobsters_id = ""
+hacker_news_id = "32621863"
+lobsters_id = "7tzjgv"
 +++
 
 If you ask me how I would describe the solo-practice of software engineering, I'd sum it up to 03 skills:
@@ -46,7 +46,7 @@ It might be astonishing to you, the reader, but some developers I came across ca
 Again, all is my personal findings. Very little education is given to teaching this kind of stuff, most "tutorials" are how to build things, or learn new things. Yet I find tinkering with your runtime environment or the underlying system of your app very crucial to debugging and problem solving. It's even inspirational knowing how your OS, or the runtime is solving certain problems or what facilities is offering you to achieve certain tasks.  
 
 
-As a result, entire projects (thus businesses) were built with poor logging (i.e. no log rotation, blocking log writes .. ), poor time handling, let alone timezones, long/heavy processing when handling HTTP request (then stuck at handling timeouts), unbound memory consumption - even with garbage collected languages- but they learnt not to bother with free-ing up resources, it's taken care of. Oh and CI is broken, someone introduced an interactive -blocking- process to the pipeline, what the heck is no-tty anyway? 
+As a result, entire projects (thus businesses) were built with poor logging (i.e. no log rotation, blocking log writes .. ), poor time handling, let alone timezones, long/heavy processing when handling HTTP requests (then stuck at handling timeouts), unbound memory consumption - even with garbage collected languages- but they learnt not to bother with free-ing up resources, it's taken care of. Oh and CI is broken, someone introduced an interactive -blocking- process to the pipeline, what the heck is no-tty anyway? 
 
 
 It's not always about learning new things, it's more important to know on what ground you're standing on. It's worthwhile studying it.
