@@ -68,7 +68,7 @@ We, the tech industry, "normalized" full-stack development (~02 runtimes apart),
 
 A generalist can see from different perspectives, is a good "linker" and problem solver, [a tinkerer](https://walid.dev/blog/stick-to-tinkering/), a real good "on call" dev. A generalist is a jack of all trades, master of any. The more you accumulate experience, the more likely "you've seen it all", you certainly go deep on some stuff, but you also go wide. It correlates well with years of experience. E.g. You can be real good at both backend + devops, because they overlap a lot. Or a real good Svelte + React engineer, because you switched companies/projects over the years.
 
-That is not to be confused with "it pays off to be a specialist". Any experienced generalist has a couple "focus" areas they're a specialist in. It just it happens they're very knowledgeable about other areas too as a result of their experience. And it's huge leverage. Discussing this with one of my friends, I liked the way he put it:
+That is not to be confused with "it pays off to be a specialist". Any experienced generalist has a couple "focus" areas they're a specialist in. It just happens they're very knowledgeable about other areas too as a result of their experience. And it's huge leverage. Discussing this with one of my friends, I liked the way he put it:
 
 > 100% agree. I think good software engineers —when it comes to tooling— are generalized specialists, with the specialization being a side effect of working with a particular tech stack for a relatively longer period of time, not by being religious about it.
 
@@ -83,7 +83,7 @@ We, the tech industry, embraced Leetcode & hackerrank like tests, which are clos
 
 We, the tech industry, need to asses skills by asynchronously giving candidates some of the company's real problems, related directly to the business domain, and see how they'd tackle them. Pick up a real issue from the tracker/roadmap, a bug you experienced. Ask them for an RFC or to do a code review. These are some better ways to see their thought process and evaluate their skills.
 
-Coding/algorithm interviews will render candidates prepare against a metrics system optimizing for grades. Not engineering. Not problem solving. It's [metric fixation](https://aeon.co/ideas/against-metrics-how-measuring-performance-by-numbers-backfires).
+Coding/algorithm interviews will render candidates prepare against a metrics system optimizing for grades. Not engineering. Not problem solving. it incentivize gaming. It's [metric fixation](https://aeon.co/ideas/against-metrics-how-measuring-performance-by-numbers-backfires).
 
 **What else? ruling out juniors.**
 
