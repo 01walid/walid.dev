@@ -1,5 +1,5 @@
 +++
-title = 'Tech Recruiting And Local Optima'
+title = 'Tech Recruiting And Local Optimum'
 date = 2022-11-15T06:37:15+01:00
 draft = false
 tags = ["hiring", "recruiter", "tech", "talent", "opportunity"]
