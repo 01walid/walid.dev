@@ -11,6 +11,9 @@ meta_img = "/images/image.jpg"
 # For hacker news and lobsters builtin links, see github.com/mtn/cocoa-eh-hugo-theme/wiki/Social-Links
 hacker_news_id = ""
 lobsters_id = ""
+aliases = [
+    "/blog/tech-recruiting-and-local-optima/"
+]
 +++
 
 One of the quotes that stuck in my head over the last few weeks is:
