@@ -1,7 +1,7 @@
 +++
 title = 'Tech Recruiting And Local Optimum'
 date = 2022-11-15T06:37:15+01:00
-draft = false
+draft = true
 tags = ["hiring", "recruiter", "tech", "talent", "opportunity"]
 description = "This post discusses how the recruiting process can be unfair to the talent pool available. Talent is more evenly distributed than opportunities, and it seems we're not addressing that issue enough."
 
@@ -15,6 +15,11 @@ aliases = [
     "/blog/tech-recruiting-and-local-optima/"
 ]
 +++
+
+--------
+**Note:** I hesitated a lot writing this post, it might make me seem arrogant to some. But what pushed the last bit is multiple experiences where I'm told -either directly or indirectly- we can't pay you X because {I_live_in_3rd_world_Region}. Even though the value I can deliver is no no less than someone in {Insert_1st_world_region_here}, but the X amount I ask for is already less.
+
+---------
 
 One of the quotes that stuck in my head over the last few weeks is:
 
@@ -49,18 +54,18 @@ We're in times where the talent pool and company goals/budget are themselves inf
 - Good news: mass layoffs happening => seemingly larger talent pool available. 
 - Bad news: economic crisis => Different company goals (e.g. less budget, longer runways..)
 
-You -as a recruiter- naturally adapt to that by playing safe, some of the company money is at your play, and with great power comes great responsibility (sometimes, great arrogance). 
+You -as a recruiter- naturally adapt to that by playing safe, some of the company money is at your play, and with great power comes great responsibility. 
 
 But the trap is you might unintentionally predefine a set of rules/assumptions that'd narrow down your explore range or selection from the talent pool without you noticing. 
 
 Here's how you might play safe:
+- You reject valuable talent, because Geo? 
+- You exclude real good candidates, with real good referrals/feedback, because they're "expensive". 
 - You focus on tooling/stacks rather than engineering, with titles like: hiring NextJS developer, Svelte developer, {Your_Company_Stack} developer... 
 - You look for multi-taskers at the cost of their cognitive overhead & context switching, because they're seemingly cost-effective, with roles like: Full-stack web developer. 
 - You run candidates by Leetcode, Hackerrank, and other algorithm riddles that have zero relation with your business domain or engineering, because that's how you filter smart people, right? right? 
-- You exclude real good candidates, with real good referrals/feedback, because they're "expensive". 
 - You barely give attention, chance or "waste time" with candidates with no-referrals. 
 - You exclude those who signal multi-languages/stacks/paradigms experience. Generalist engineers with many years of experience, because you think they can't go deep enough. Jack of all trades.
-- You reject valuable talent, because Geo? 
 - You are ruling out juniors.
 
 
