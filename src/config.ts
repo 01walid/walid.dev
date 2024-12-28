@@ -4,16 +4,16 @@ export const SITE: Site = {
   website: "https://walid.dev/", // replace this with your deployed domain
   author: "Walid Ziouche",
   profile: "https://walid.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Walid Ziouche's personal website",
   title: "Walid Ziouche",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
-  postPerPage: 3,
+  postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/satnaing/astro-paper/edit/main/src/content/blog",
+    url: "https://github.com/01walid/walid.dev/tree/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
