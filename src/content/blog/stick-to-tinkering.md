@@ -1,17 +1,19 @@
-+++
-title = 'Stick to Tinkering'
-date = 2022-07-18T20:59:39+01:00
-draft = false
-tags = ["systems", "problem solving"]
-description = "Random thoughts about the importance of understanding the underlying system when coding & developing"
+---
+author: Walid Ziouche
+title: 'Stick to Tinkering'
+pubDatetime: 2022-07-18T20:59:39+01:00
+draft: false
+tags:
+    - systems 
+    - problem solving
+featured: true
+description: 'Random thoughts about the importance of understanding the underlying system when coding & developing'
 
-# For twitter cards, see https://github.com/mtn/cocoa-eh-hugo-theme/wiki/Twitter-cards
-# meta_img = "/images/image.jpg"
-
-# For hacker news and lobsters builtin links, see github.com/mtn/cocoa-eh-hugo-theme/wiki/Social-Links
-hacker_news_id = "32621863"
-lobsters_id = "7tzjgv"
-+++
+# Social media metadata
+# socialImage: '/images/image.jpg'
+hackerNewsId: '32621863'
+lobstersId: '7tzjgv'
+---
 
 If you ask me how I would describe the solo-practice of software engineering, I'd sum it up to 03 skills:
 
